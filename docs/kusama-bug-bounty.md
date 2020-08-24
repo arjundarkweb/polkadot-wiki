@@ -45,4 +45,4 @@ isn't limited to, the following:
 
 Please email your submission with all details to [sos@kusama.network](mailto:sos@kusama.network).
 
-Pseudonymous and anonymous submissions are welcome.
+Pseudonymous and anonymous submissions are welcom
